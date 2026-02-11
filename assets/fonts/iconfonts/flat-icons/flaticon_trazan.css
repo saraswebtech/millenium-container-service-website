@@ -1,0 +1,167 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_trazan";
+    src: url("flaticon_trazan9770.woff2?a9635a6a9809b882479ec87a5b39bf6a") format("woff2"),
+url("flaticon_trazan9770.woff?a9635a6a9809b882479ec87a5b39bf6a") format("woff"),
+url("flaticon_trazan9770.eot?a9635a6a9809b882479ec87a5b39bf6a#iefix") format("embedded-opentype"),
+url("flaticon_trazan9770.ttf?a9635a6a9809b882479ec87a5b39bf6a") format("truetype"),
+url("flaticon_trazan9770.svg?a9635a6a9809b882479ec87a5b39bf6a#flaticon_trazan") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_trazan !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bag:before {
+    content: "\f101";
+}
+.flaticon-check:before {
+    content: "\f102";
+}
+.flaticon-airplane:before {
+    content: "\f103";
+}
+.flaticon-delivery:before {
+    content: "\f104";
+}
+.flaticon-ship:before {
+    content: "\f105";
+}
+.flaticon-plane:before {
+    content: "\f106";
+}
+.flaticon-daily-health:before {
+    content: "\f107";
+}
+.flaticon-briefcase:before {
+    content: "\f108";
+}
+.flaticon-laptop:before {
+    content: "\f109";
+}
+.flaticon-smartwatch:before {
+    content: "\f10a";
+}
+.flaticon-shop:before {
+    content: "\f10b";
+}
+.flaticon-handshake:before {
+    content: "\f10c";
+}
+.flaticon-car:before {
+    content: "\f10d";
+}
+.flaticon-menu:before {
+    content: "\f10e";
+}
+.flaticon-project:before {
+    content: "\f10f";
+}
+.flaticon-group-chat:before {
+    content: "\f110";
+}
+.flaticon-handshake-1:before {
+    content: "\f111";
+}
+.flaticon-tonne:before {
+    content: "\f112";
+}
+.flaticon-received:before {
+    content: "\f113";
+}
+.flaticon-protection:before {
+    content: "\f114";
+}
+.flaticon-rocket:before {
+    content: "\f115";
+}
+.flaticon-quote:before {
+    content: "\f116";
+}
+.flaticon-equalizer:before {
+    content: "\f117";
+}
+.flaticon-24-hours-support:before {
+    content: "\f118";
+}
+.flaticon-sand-clock:before {
+    content: "\f119";
+}
+.flaticon-telephone:before {
+    content: "\f11a";
+}
+.flaticon-telephone-1:before {
+    content: "\f11b";
+}
+.flaticon-email:before {
+    content: "\f11c";
+}
+.flaticon-location:before {
+    content: "\f11d";
+}
+.flaticon-air:before {
+    content: "\f11e";
+}
+.flaticon-shipment:before {
+    content: "\f11f";
+}
+.flaticon-repair:before {
+    content: "\f120";
+}
+.flaticon-forklift:before {
+    content: "\f121";
+}
+.flaticon-plane-1:before {
+    content: "\f122";
+}
+.flaticon-jeep:before {
+    content: "\f123";
+}
+.flaticon-train:before {
+    content: "\f124";
+}
+.flaticon-postal-service:before {
+    content: "\f125";
+}
+.flaticon-truck:before {
+    content: "\f126";
+}
+.flaticon-delivery-truck:before {
+    content: "\f127";
+}
+.flaticon-order-tracking:before {
+    content: "\f128";
+}
+.flaticon-warehouse:before {
+    content: "\f129";
+}
+.flaticon-quality:before {
+    content: "\f12a";
+}
+.flaticon-search:before {
+    content: "\f12b";
+}
+.flaticon-back:before {
+    content: "\f12c";
+}
+.flaticon-next:before {
+    content: "\f12d";
+}
+
