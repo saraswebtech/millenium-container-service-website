@@ -340,7 +340,7 @@ h2,
 
   h2,
   .d-h2 {
-    font-size: 2rem;
+    font-size: 25px;
     letter-spacing: 2px;
   }
 }
@@ -426,7 +426,7 @@ blockquote {
   border-radius: 12px;
   background-color: #fff;
   padding: 25px;
-  font-size: 1.25rem;
+  font-size: 17px;
 }
 
 .tc-body {
@@ -4141,6 +4141,7 @@ select {
 
 .breadcrumb-title {
   color: #fff;
+  font-size: 35px;
 }
 
 .breadcrumb-bg-block {
@@ -8151,6 +8152,7 @@ input[type=range]::-webkit-slider-thumb {
   border-radius: 12px;
   background-color: #fff;
   padding: 30px 30px;
+  width: 100%;
 }
 
 @media (min-width: 992px) {
@@ -8837,7 +8839,7 @@ input[type=range]::-webkit-slider-thumb {
 .service-track-img {
   display: none;
   position: absolute;
-  bottom: 130px;
+  bottom: 60px;
   left: 0;
 }
 
