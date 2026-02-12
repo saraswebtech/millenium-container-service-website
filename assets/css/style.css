@@ -968,7 +968,7 @@ blockquote {
 
 .section-text {
   margin-top: 20px;
-  font-size: 1.125rem;
+  font-size:16px;
 }
 
 .content-list {
@@ -11356,20 +11356,17 @@ input[type=range]::-webkit-slider-thumb {
   .feature-style-1-list {
     -ms-grid-columns: (1fr)[2];
     grid-template-columns: repeat(2, 1fr);
-    margin-left: 40px;
   }
 }
 
 @media (min-width: 1400px) {
   .feature-style-1-list {
-    gap: 65px;
-    margin-left: 60px;
+    gap: 50px;
   }
 }
 
 @media (min-width: 1800px) {
   .feature-style-1-list {
-    margin-left: 120px;
   }
 }
 
