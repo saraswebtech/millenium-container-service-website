@@ -692,7 +692,7 @@ blockquote {
 
 @media (min-width: 1800px) {
   .space-x-128 {
-    padding-inline: 128px;
+    padding-inline: 230px;
   }
 }
 
@@ -2150,7 +2150,7 @@ select {
 
 @media (min-width: 992px) {
   .header-bottom-style-1 .header-bottom-right {
-    width: 100%;
+    /* width: 100%; */
   }
 }
 
